@@ -1,4 +1,4 @@
-#### Adquirentes são empresas que possuem a respondabilidade de comunicação das transações ebtre estabelecimento financeiro e a bandeira do cartão de crédito. Essas empresas alugam e mantém os equipamentos usados pelos estabelecimentos como, por exemplo, o Point of Sales (POS).
+#### Adquirentes são empresas que possuem a respondabilidade de comunicação das transações entre estabelecimento financeiro e a bandeira do cartão de crédito. Essas empresas alugam e mantém os equipamentos usados pelos estabelecimentos como, por exemplo, o Point of Sales (POS).
 
 Figura 1: Sistema de autorização de uma transação. Fonte:[Gadi, 2008].
 ![image](https://user-images.githubusercontent.com/83255807/141333079-50c00a01-795a-4193-85d7-609cfbd72287.png)
