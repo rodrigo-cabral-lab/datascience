@@ -7,7 +7,6 @@ Figura 1: Sistema de autorização de uma transação. Fonte:[Gadi, 2008].
 
 Referências: 
 
-Gadi, M. F. A. (2008). Uma Comparação de Métodos de Classificação Aplicados à
-Detecção de Fraude em Cartões de Crédito. São Paulo.
+Gadi, M. F. A. Uma Comparação de Métodos de Classificação Aplicados à Detecção de Fraude em Cartões de Crédito. São Paulo, 2012.
 
-Júnior, J. F. Mineração de dados para detecção de fraudes em transações eletrônicas 2012.
+Júnior, J. F. Mineração de dados para detecção de fraudes em transações eletrônicas. Belo Horizonte,  2012.
